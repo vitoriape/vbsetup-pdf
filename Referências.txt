@@ -1,0 +1,3 @@
+https://docs.microsoft.com/pt-br/office/vba/api/excel.workbook.exportasfixedformat
+
+https://docs.microsoft.com/pt-br/office/vba/api/excel.pagesetuphttps://docs.microsoft.com/pt-br/office/vba/api/excel.pagesetup
