@@ -41,7 +41,7 @@ Index
 <!--te-->
 
 ## About
-This project is an [VBA](https://docs.microsoft.com/pt-br/office/vba/library-reference/concepts/getting-started-with-vba-in-office) script that configure **all worksheets** in the active Excel workbook pages and export them as `PDF` files. _Make sure you have the developer guide activated_.
+This project is an [VBA](https://docs.microsoft.com/pt-br/office/vba/library-reference/concepts/getting-started-with-vba-in-office) script that configure **all worksheets** in the active Excel workbook pages and export them as `PDF` files.
 
 ---
 
