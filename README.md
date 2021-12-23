@@ -1,5 +1,5 @@
 <h3 align="center"> 
-<img alt="vbmkdir banner" src="./assets/vbsetup-pdf.cover.png" width="1500" height="500">
+<img alt="vbmkdir banner" src="./assets/vbsetup-pdf.cover.png" width="1500" height="300">
 </h3>
 
 <h1 align="center">
